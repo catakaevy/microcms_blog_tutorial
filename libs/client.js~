@@ -1,0 +1,7 @@
+import { createClient } from 'microcms-js-sdk';
+
+export const client = createClient({
+  serviceDomain: 'catakainriga', 
+  apiKey: 'SdDHdknr3K4kk4hzldtckVM6WAlHe7uIbu0Z',
+});
+
